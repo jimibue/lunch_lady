@@ -1,0 +1,57 @@
+{"menu": {
+    "items": [
+        {
+            "item" : 1,
+            "name":"Meats and stuff",
+            "price": 29.95,
+            "category": "main"
+            
+        },
+        {
+            "item" : 2,
+            "name":"Veggies and stuff",
+            "price": 19.95,
+            "category": "main"
+            
+        },
+        {
+            "item" : 3,
+            "name":"Pizza",
+            "price": 19.95,
+            "category": "main"
+            
+        },
+        {
+            "item" : 4,
+            "name":"hamburger",
+            "price": 29.95,
+            "category": "main"
+            
+        },
+        {
+            "item" : 1,
+            "name":"fries",
+            "price": 29.95,
+            "category": "side"
+            
+        },
+        {
+            "item" : 2,
+            "name":"more meat",
+            "price": 9.95,
+            "category": "side"
+        },
+        {
+            "item" : 3,
+            "name":"Beer",
+            "price": 1.55,
+            "category": "side"
+        },
+        {
+            "item" : 4,
+            "name":"Cheese wrapped in cheese",
+            "price": 0.55,
+            "category": "side"
+        }
+    ]
+}}
